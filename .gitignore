@@ -1,0 +1,4 @@
+captured_hashes.txt
+__pycache__/
+*.pyc
+.env
